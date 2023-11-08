@@ -1,0 +1,15 @@
+[submodule "WineCellarSE"]
+	path = WineCellarSE
+	url = git@github.com:tom-sartori/WineCellarSE.git
+[submodule "WineCellar-srv"]
+	path = WineCellar-srv
+	url = git@github.com:tom-sartori/WineCellar-srv.git
+[submodule "WineCellar-ui"]
+	path = WineCellar-ui
+	url = git@github.com:tom-sartori/WineCellar-ui.git
+[submodule "WineCellar_flutter"]
+	path = WineCellar_flutter
+	url = git@github.com:tom-sartori/WineCellar_flutter.git
+[submodule "WineCellarOld"]
+	path = WineCellarOld
+	url = git@github.com:tom-sartori/WineCellarOld.git
